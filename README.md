@@ -36,7 +36,7 @@ To complete the following JavaScript exercises:
 ## Summary
 
 ### What I learned
-*
+* jasmine <name of file.spec.js> to run test 
 
 
 ### What could be improved
