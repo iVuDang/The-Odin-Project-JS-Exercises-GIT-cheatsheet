@@ -15,20 +15,19 @@ To complete the following JavaScript exercises:
     leapYears
     tempConversion
 
-
-
 ### Technologies: 
 * JavaScript
 
 ### Tools
-* Node.js
 * Microsoft Visual Studio Code
 * Git Bash
 * GitHub
 
-
 ### Outcome
-* [x] 
+* [x] 7 of 7 exercises 
+
+### Links
+https://codepen.io/collection/nWqayd
 
 <br />
 
@@ -36,11 +35,13 @@ To complete the following JavaScript exercises:
 ## Summary
 
 ### What I learned
-* jasmine <name of file.spec.js> to run test 
+* jasmine 'name of file.spec.js' to run test 
+* To exclude a value from an array, can use .filter(val => !args.includes(val))
+* Pseudocode means filter through the array, and return any value that is NOT (val)
 
 
 ### What could be improved
-* 
+* Need more practice and understanding of the rest parameter syntax *'...args'* (Exercise removeFromArray)
 
 
 
