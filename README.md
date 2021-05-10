@@ -1,5 +1,6 @@
-# The Odin Project JavaScript Exercises (Fundamentals Part 4)
+# The Odin Project JavaScript Exercises
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-4
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-5
 
 
 ## Purpose: 
