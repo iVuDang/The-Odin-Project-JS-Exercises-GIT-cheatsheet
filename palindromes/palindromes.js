@@ -44,3 +44,6 @@ const palindromes = function(string) {
 
 
 module.exports = palindromes
+
+
+// CodePen link: https://codepen.io/iVuDang/pen/c75c64d5d50fb50fd1109d7dd29b7df6?editors=0002

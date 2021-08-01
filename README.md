@@ -51,8 +51,8 @@ https://codepen.io/collection/nWqayd
 3. Pseudocode means filter through the array, and return any value that is NOT (val)
 
 #### Part II:
-1. Easier to test/experiment the script in CodePen.
-2. Useful .reduce method. Example:
+1. Easier to test and experiment the script in CodePen.
+2. Useful .reduce methods to note. Example:
 ```
 function sum (array) {
 	return array.reduce((total, current) => total + current, 0)
