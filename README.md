@@ -1,19 +1,15 @@
 # The Odin Project JavaScript Exercises
+
+
+## Instructions:
+Part I: <br>
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-4
 <br/>
+Part II: <br>
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-5
 
-
 ## Purpose: 
-To complete the following JavaScript exercises:
-
-    helloWorld
-    repeatString
-    reverseString
-    removeFromArray
-    sumAll
-    leapYears
-    tempConversion
+To solve the listed JavaScript exercises. 
 
 ### Technologies: 
 * JavaScript
@@ -24,7 +20,21 @@ To complete the following JavaScript exercises:
 * GitHub
 
 ### Outcome
-* [x] 7 of 7 exercises 
+#### Part I 
+- [x] helloWorld
+- [x] repeatString
+- [x] reverseString
+- [x] removeFromArray
+- [x] sumAll
+- [x] leapYears
+- [x] tempConversion
+
+#### Part II
+- [x] calculator
+- [x] palindromes
+- [x] fibonacci
+- [x] getTheTitles
+- [x] findTheOldest
 
 ### Links
 https://codepen.io/collection/nWqayd
