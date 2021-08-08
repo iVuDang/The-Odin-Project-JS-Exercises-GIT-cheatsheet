@@ -42,7 +42,7 @@ I created a solution walkthrough for one of the problems: **Exercise 10 - Fibona
 
 | Website | Link | 
 | ------------- | ------------- | 
-| YouTube tutorial | | 
+| YouTube tutorial | https://youtu.be/2qS9HL7n8F0 | 
 | CodePen demo | https://codepen.io/iVuDang/pen/MWmXrvw | 
 
 
