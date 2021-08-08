@@ -38,7 +38,7 @@ To solve the listed JavaScript exercises.
 
 
 ### Exercise 10 - Fibonacci
-Solution walkthrough I created for exercise 10 - fibonacci: 
+I created a solution walkthrough for one of the problems: **Exercise 10 - Fibonacci**: 
 
 | Website | Link | 
 | ------------- | ------------- | 
