@@ -34,7 +34,7 @@ To solve the listed JavaScript exercise problems.
 - [x] palindromes
 - [x] fibonacci
 - [x] getTheTitles
-- [ ] findTheOldest **(did not understand, to revisit)**
+- [ ] findTheOldest (did not understand, to revisit)
 
 
 ### Exercise 10 - Fibonacci :white_check_mark:
