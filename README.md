@@ -71,6 +71,29 @@ function multiply (array) {
 
 ```
 
+
+3. Cheatsheet for using Git 
+```
+Navigating: 
+* cd ~/ first few letters of directory, then hit TAB , it should autofill the directory. 
+* cd .. navigates up one directory 
+* cd .. navigate to the previous directory (or back)
+* cd    navigate to your home directory
+
+Uploading to GitHub:
+* git add -A
+* git commit -m 'message'
+* git push origin main
+
+Downloading from GitHub:
+(if updates were rejected because the remote contains work)
+* git remote add origin [github url]
+* git pull origin main (if conflict, pull changes from github)
+
+Conflict: 
+* Git force --force - last resort to force upload onto GitHub
+```
+
 ### What could be improved
 * Need more practice and understanding of the rest parameter syntax *'...args'* (Exercise removeFromArray)
 
