@@ -37,7 +37,7 @@ To solve the listed JavaScript exercise problems.
 - [x] findTheOldest
 
 
-### Exercise 10 - Fibonacci
+### Exercise 10 - Fibonacci :white_check_mark:
 I created a solution walkthrough for one of the problems: **Exercise 10 - Fibonacci**: 
 
 | Website | Link | 
