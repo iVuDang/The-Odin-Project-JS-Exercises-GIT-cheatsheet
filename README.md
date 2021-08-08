@@ -36,8 +36,15 @@ To solve the listed JavaScript exercises.
 - [x] getTheTitles
 - [x] findTheOldest
 
-### Links
-https://codepen.io/collection/nWqayd
+
+### Exercise 10 - Fibonacci
+Solution walkthrough I created for exercise 10 - fibonacci: 
+
+| Website | Link | 
+| ------------- | ------------- | 
+| YouTube tutorial | | 
+| CodePen demo | https://codepen.io/iVuDang/pen/MWmXrvw | 
+
 
 <br />
 
