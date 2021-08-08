@@ -9,7 +9,7 @@ Part II: <br>
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-5
 
 ## Purpose: 
-To solve the listed JavaScript exercises. 
+To solve the listed JavaScript exercise problems. 
 
 ### Technologies: 
 * JavaScript
