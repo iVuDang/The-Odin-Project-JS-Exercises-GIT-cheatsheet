@@ -96,6 +96,7 @@ Conflict:
 
 ### What could be improved
 * Need more practice and understanding of the rest parameter syntax *'...args'* (Exercise removeFromArray)
+* Did not understand Exercise 12 - findTheOldest. To revisit once having a stronger understanding and more practice with JavaScript.  
 
 
 
