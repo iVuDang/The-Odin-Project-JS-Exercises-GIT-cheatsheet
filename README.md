@@ -12,7 +12,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fun
 To solve the listed JavaScript exercise problems. 
 
 ## Preview:
-![Image of Preview](https://github.com/iVuDang/The-Odin-Project-JavaScript-Exercises/blob/a36273d4d9ad1cfb4d329e4f22649ff9bd8969ca/The%20Odin%20Project%20-%20Fibonacci.png){:height="30%" width="30%"}
+![Image of Preview](https://github.com/iVuDang/The-Odin-Project-JavaScript-Exercises/blob/a36273d4d9ad1cfb4d329e4f22649ff9bd8969ca/The%20Odin%20Project%20-%20Fibonacci.png){:height="10%" width="10%"}
 
 ### Technologies: 
 * JavaScript
