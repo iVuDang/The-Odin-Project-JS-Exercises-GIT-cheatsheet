@@ -76,8 +76,8 @@ function multiply (array) {
 
 
 3. Cheatsheet for using Git 
-```
-<b>Navigating<b>: 
+
+**Navigating**: 
 * cd ~/ first few letters of directory, then hit TAB , it should autofill the directory. 
 * cd .. navigates up one directory 
 * cd .. navigate to the previous directory (or back)
@@ -95,7 +95,7 @@ function multiply (array) {
 
 **Conflict**: 
 * Git force --force - last resort to force upload onto GitHub
-```
+
 
 ### What could be improved
 * Need more practice and understanding of the rest parameter syntax *'...args'* (Exercise removeFromArray)
