@@ -80,16 +80,15 @@ function multiply (array) {
 
 **Navigating**: 
  
-* cd .. navigate to the previous directory (or back)
-* cd    navigate to your home directory
-
-* pwd checks current file path
-* git status 
-
 Git Command  | Description 
 ------------- | -------------
-cd ~/  | first few letters of directory, then hit TAB , it should autofill the directory.
+cd ~/xyz  | first few letters of directory, then hit TAB , it should autofill the directory.
 cd ..  | navigates up one directory
+cd -  | navigates to the previous directory (or back)
+cd ..  | navigates up one directory
+cd /  | navigates to root directory
+pwd  | checks current file path
+git status  | checks what has been so far
 
 
 - - - -
