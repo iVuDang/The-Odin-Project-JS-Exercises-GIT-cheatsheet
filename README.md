@@ -88,6 +88,10 @@ cd -  | navigates to the previous directory (or back)
 cd ..  | navigates up one directory
 cd /  | navigates to root directory
 pwd  | checks current file path
+clear  | clears all previous commands 
+mkdir "name of directory" | creates new directory in current file path 
+rmdir "name of directory" | removes specified directory 
+Rm -i “name of file” | removes specific file 
 
 - - - -
 **Uploading to GitHub**:
@@ -105,6 +109,7 @@ Git Command  | Description
 ------------- | -------------
 git remote add origin [github url] | creates a new repository 
 git pull origin main (if conflict, pull changes from github) | pulls copy from GitHub
+
 
 - - - -
 **Conflict**: 
