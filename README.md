@@ -88,16 +88,15 @@ cd -  | navigates to the previous directory (or back)
 cd ..  | navigates up one directory
 cd /  | navigates to root directory
 pwd  | checks current file path
-git status  | checks what has been so far
-
 
 - - - -
 **Uploading to GitHub**:
 Git Command  | Description 
 ------------- | -------------
-git add -A | adds change to the staging area
+git add -A | stages all files and changes to repository 
 git commit -m 'message' | commits the staged change with a message description 
 git push origin main | uploads the staged snapshot onto GitHub
+git status  | checks what has been so far
 
 - - - -
 **Downloading from GitHub**:
