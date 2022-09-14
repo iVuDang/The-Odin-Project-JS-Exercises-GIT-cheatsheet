@@ -102,11 +102,16 @@ git push origin main | uploads the staged snapshot onto GitHub
 - - - -
 **Downloading from GitHub**:
 (if updates were rejected because the remote contains work)
-* git remote add origin [github url]
-* git pull origin main (if conflict, pull changes from github)
+Git Command  | Description 
+------------- | -------------
+git remote add origin [github url] | creates a new repository 
+git pull origin main (if conflict, pull changes from github) | pulls copy from GitHub
+
 - - - -
 **Conflict**: 
-* Git force --force - last resort to force upload onto GitHub
+Git Command  | Description 
+------------- | -------------
+* Git force --force -  | last resort to force upload onto GitHub
 - - - -
 
 
