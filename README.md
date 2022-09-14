@@ -111,7 +111,7 @@ git pull origin main (if conflict, pull changes from github) | pulls copy from G
 **Conflict**: 
 Git Command  | Description 
 ------------- | -------------
-* Git force --force -  | last resort to force upload onto GitHub
+Git force --force - | last resort to force upload onto GitHub
 - - - -
 
 
