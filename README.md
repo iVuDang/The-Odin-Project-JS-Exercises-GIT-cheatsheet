@@ -75,7 +75,7 @@ function multiply (array) {
 ```
 
 
-3. Cheatsheet for using Git 
+### Cheatsheet for using Git 
 
 **Navigating**: 
 * cd ~/ first few letters of directory, then hit TAB , it should autofill the directory. 
