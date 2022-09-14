@@ -82,17 +82,17 @@ function multiply (array) {
 * cd .. navigates up one directory 
 * cd .. navigate to the previous directory (or back)
 * cd    navigate to your home directory
-
+- - - -
 **Uploading to GitHub**:
 * git add -A
 * git commit -m 'message'
 * git push origin main
-
+- - - -
 **Downloading from GitHub**:
 (if updates were rejected because the remote contains work)
 * git remote add origin [github url]
 * git pull origin main (if conflict, pull changes from github)
-
+- - - -
 **Conflict**: 
 * Git force --force - last resort to force upload onto GitHub
 
