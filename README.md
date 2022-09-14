@@ -95,7 +95,7 @@ function multiply (array) {
 - - - -
 **Conflict**: 
 * Git force --force - last resort to force upload onto GitHub
-
+- - - -
 
 ### What could be improved
 * Need more practice and understanding of the rest parameter syntax *'...args'* (Exercise removeFromArray)
