@@ -85,7 +85,6 @@ Git Command  | Description
 cd ~/xyz  | first few letters of directory, then hit TAB , it should autofill the directory.
 cd ..  | navigates up one directory
 cd -  | navigates to the previous directory (or back)
-cd ..  | navigates up one directory
 cd /  | navigates to root directory
 pwd  | checks current file path
 clear  | clears all previous commands 
