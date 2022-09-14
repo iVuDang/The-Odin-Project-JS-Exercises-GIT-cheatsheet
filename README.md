@@ -77,7 +77,7 @@ function multiply (array) {
 
 3. Cheatsheet for using Git 
 ```
-**Navigating**: 
+<b>Navigating<b>: 
 * cd ~/ first few letters of directory, then hit TAB , it should autofill the directory. 
 * cd .. navigates up one directory 
 * cd .. navigate to the previous directory (or back)
