@@ -93,9 +93,12 @@ git status  | checks what has been so far
 
 - - - -
 **Uploading to GitHub**:
-* git add -A
-* git commit -m 'message'
-* git push origin main
+Git Command  | Description 
+------------- | -------------
+git add -A | adds change to the staging area
+git commit -m 'message' | commits the staged change with a message description 
+git push origin main | uploads the staged snapshot onto GitHub
+
 - - - -
 **Downloading from GitHub**:
 (if updates were rejected because the remote contains work)
