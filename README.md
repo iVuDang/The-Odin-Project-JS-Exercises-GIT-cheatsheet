@@ -99,7 +99,7 @@ Rm -i “name of file” | removes specific file
 Git Command  | Description 
 ------------- | -------------
 git remote add origin  <REMOTE_URL> | creates remote repository
-git clone  <Git Hub SSH code link> | clones remote repository 
+git clone  <Git Hub SSH code link> | clones repository from GitHub to a directory in your PC
 git add -A | stages all files and changes to repository 
 git commit -m 'message' | commits the staged change with a message description 
 git push origin main | uploads the staged snapshot onto GitHub
