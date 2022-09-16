@@ -82,14 +82,14 @@ function multiply (array) {
  
 Git Command  | Description 
 ------------- | -------------
+pwd  | checks current file path
+mkdir "name of directory" | creates new directory in current file path 
+rmdir "name of directory" | removes specified directory 
 cd ~/xyz  | first few letters of directory, then hit TAB , it should autofill the directory.
 cd ..  | navigates up one directory
 cd -  | navigates to the previous directory (or back)
 cd /  | navigates to root directory
-pwd  | checks current file path
 clear  | clears all previous commands 
-mkdir "name of directory" | creates new directory in current file path 
-rmdir "name of directory" | removes specified directory 
 Rm -i “name of file” | removes specific file 
 
 - - - -
