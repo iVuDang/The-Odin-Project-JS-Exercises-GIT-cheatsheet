@@ -100,12 +100,13 @@ Rm -i “name of file” | removes specific file
 Git Command  | Description 
 ------------- | -------------
 git remote add origin  <REMOTE_URL> | creates remote repository
-git clone  <Git Hub SSH code link> | clones repository from GitHub to a directory in your PC
+git clone  <Git Hub HTTPS link> | clones repository from GitHub to a directory in your PC
 git add "name of file" | stages specific file 
 git add -A | stages all files and changes to repository 
 git commit -m 'message' | commits the staged change with a message description 
-git push origin main | uploads the staged snapshot onto GitHub
-git status  | checks what has been so far
+git push | uploads changes to a onto Github
+git push origin main | uploads all staged changes onto GitHub 
+git status  | checks what has been done so far
 
 - - - -
 **Downloading from GitHub**:
@@ -113,7 +114,8 @@ git status  | checks what has been so far
 Git Command  | Description 
 ------------- | -------------
 git remote add origin [github url] | creates a new repository 
-git pull origin main (if conflict, pull changes from github) | pulls copy from GitHub
+git pull (if conflict, pull changes from github) | pulls copy and changes from GitHub
+git pull origin main (if conflict, pull changes from github) | pulls copy and changes from GitHub
 
 
 - - - -
