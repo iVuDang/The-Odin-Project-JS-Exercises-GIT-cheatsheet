@@ -88,6 +88,7 @@ rmdir "name of directory" | removes specified directory
 git config --global user.name "<my name>" | Configure Git on your local computer
 git config --global user.email "<myname@mtroyal.ca>" | Configure Git on your local computer
 cd ~/xyz  | first few letters of directory, then hit TAB , it should autofill the directory.
+cd  | first few letters of directory, then hit TAB , it should autofill the directory.
 cd ..  | navigates up one directory
 cd -  | navigates to the previous directory (or back)
 cd /  | navigates to root directory
@@ -100,6 +101,7 @@ Git Command  | Description
 ------------- | -------------
 git remote add origin  <REMOTE_URL> | creates remote repository
 git clone  <Git Hub SSH code link> | clones repository from GitHub to a directory in your PC
+git add "name of file" | stages specific file 
 git add -A | stages all files and changes to repository 
 git commit -m 'message' | commits the staged change with a message description 
 git push origin main | uploads the staged snapshot onto GitHub
