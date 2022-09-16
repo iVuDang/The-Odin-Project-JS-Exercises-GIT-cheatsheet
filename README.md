@@ -85,6 +85,8 @@ Git Command  | Description
 pwd  | checks current file path
 mkdir "name of directory" | creates new directory in current file path 
 rmdir "name of directory" | removes specified directory 
+git config --global user.name "<my name>" | Configure Git on your local computer
+git config --global user.email "<myname@mtroyal.ca>" | Configure Git on your local computer
 cd ~/xyz  | first few letters of directory, then hit TAB , it should autofill the directory.
 cd ..  | navigates up one directory
 cd -  | navigates to the previous directory (or back)
