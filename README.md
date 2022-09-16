@@ -98,6 +98,7 @@ Rm -i “name of file” | removes specific file
 **Uploading to GitHub**:
 Git Command  | Description 
 ------------- | -------------
+git remote add origin  <REMOTE_URL> | clones remote repository 
 git add -A | stages all files and changes to repository 
 git commit -m 'message' | commits the staged change with a message description 
 git push origin main | uploads the staged snapshot onto GitHub
